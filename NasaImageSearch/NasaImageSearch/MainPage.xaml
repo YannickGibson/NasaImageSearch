@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NasaImageSearch.MainPage">
+
+    <StackLayout Padding="0" Margin="0" Spacing="0">
+        <Frame BackgroundColor="White" Padding="24" CornerRadius="0">
+            <SearchBar Text="meteor" x:Name="searchBar" Placeholder="nasa related image" SearchButtonPressed="SearchBar_SearchButtonPressed"/>
+        </Frame>
+        <Label HorizontalTextAlignment="Center" FontAttributes="Bold" Margin="0,10,0,10">
+            <Label.FormattedText >
+                <FormattedString >
+                    <Span Text="Network is: "/>
+                    <Span x:Name="availabilitySpan" Text="Available" FontSize="Micro"/>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <ScrollView VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            <StackLayout x:Name="scrollLayout" Spacing="0">
+                
+            </StackLayout>
+        </ScrollView>
+        
+    </StackLayout>
+
+</ContentPage>

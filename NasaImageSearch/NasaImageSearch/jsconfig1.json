@@ -1,0 +1,2175 @@
+{
+    "collection": {
+        "metadata": { "total_hits": 128 },
+        "version": "1.0",
+        "href": "https://images-api.nasa.gov/search?q=quasar",
+        "items":[
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA09932",
+                        "date_created": "2007-10-09T17:19:51Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech/University of Manchester",
+                        "description_508": "This plot of data captured by NASA Spitzer Space Telescope reveals dust entrained in the winds rushing away from a quasar, or growing black hole. The quasar is called PG2112+059",
+                        "center": "JPL",
+                        "title": "A Wealth of Dust Grains in Quasar Winds",
+                        "keywords": [ "Spitzer Space Telescope" ],
+                        "description": "This plot of data captured by NASA Spitzer Space Telescope reveals dust entrained in the winds rushing away from a quasar, or growing black hole. The quasar is called PG2112+059"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA09932/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA09932/PIA09932~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA15831",
+                        "date_created": "2012-06-19T17:18:34Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/ESA/Yale",
+                        "description_508": "The galaxies pictured here have so much dust surrounding them that the brilliant light from their quasars cannot be seen in these images from NASA Hubble Space Telescope.",
+                        "center": "JPL",
+                        "title": "The Homes of Quasars",
+                        "keywords": [ "Hubble Space Telescope" ],
+                        "description": "The galaxies pictured here have so much dust surrounding them that the brilliant light from their quasars cannot be seen in these images from NASA Hubble Space Telescope."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA15831/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA15831/PIA15831~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA23410",
+                        "date_created": "2020-01-08T00:00:00Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA, ESA, A. Nierenberg, T. Treu",
+                        "description_508": "Each snapshot shows four distorted images of a background quasar, surrounding the core of a massive foreground galaxy. The gravity of the foreground galaxy magnifies the quasar, an effect called gravitational lensing.",
+                        "center": "JPL",
+                        "title": "Quasars' Multiple Images Shed Light on Tiny Dark Matter Clumps",
+                        "keywords": [ "Hubble Space Telescope" ],
+                        "description": "Each of these Hubble Space Telescope snapshots reveals four distorted images of a background quasar (an extremely bright region in the center of some distant galaxies) and its host galaxy surrounding the core of a foreground massive galaxy.  The gravity of the massive foreground galaxy acts like a magnifying glass by warping the quasar's light in an effect called gravitational lensing. Quasars are extremely distant cosmic \"streetlights\" produced by active black holes. Such quadruple images of quasars are rare because of the nearly exact alignment needed between the foreground galaxy and background quasar.  These images come from a study in which astronomers used the gravitational lensing effect to detect the smallest clumps of dark matter ever found. The clumps are located along the telescope's line of sight to the quasars as well as in and around the foreground lensing galaxies.  The presence of the dark matter concentrations alters the apparent brightness and position of each distorted quasar image. Astronomers compared these measurements with predictions of how the quasar images would look without the influence of the dark matter clumps. The researchers used these measurements to calculate the masses of the tiny dark matter concentrations.  Hubble's Wide Field Camera 3 captured the near-infrared light from each quasar and dispersed it into its component colors for study with spectroscopy. The images were taken between 2015 and 2018.  https://photojournal.jpl.nasa.gov/catalog/PIA23410"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA23410/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA23410/PIA23410~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA10019",
+                        "date_created": "2007-10-09T17:26:24Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech",
+                        "description_508": "Astronomers using NASA Spitzer Space Telescope found evidence that such quasar winds might have forged these dusty particles in the very early universe. ",
+                        "center": "JPL",
+                        "title": "Dust in the Quasar Wind Artist Concept",
+                        "keywords": [ "Spitzer Space Telescope" ],
+                        "description": "Astronomers using NASA Spitzer Space Telescope found evidence that such quasar winds might have forged these dusty particles in the very early universe. "
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA10019/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA10019/PIA10019~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "0102060",
+                        "date_created": "1973-01-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "Skylab",
+                        "keywords": [ "UV From Quasars", "Skylab Student Experiment", "ED23" ],
+                        "description": "This chart describes the Skylab student experiment Ultraviolet (UV) from Quasars, proposed by John C. Hamilton of Aiea, Hawaii. This experiment utilized Skylab's Ultraviolet Stellar Astronomy equipment to photograph quasars in the UV spectrum and compare those images to existing radio and visible data. In March 1972 NASA and the National Science Teachers Association selected 25 experiment proposals for flight on Skylab. Science advisors from the Marshall Space Flight Center aided and assisted the students in developing the proposals for flight on Skylab. "
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/0102060/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/0102060/0102060~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA16114",
+                        "date_created": "2012-08-31T01:12:13Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/ESA",
+                        "description_508": "Artist concept illustrates a quasar, or feeding black hole, similar to APM 08279+5255, where astronomers discovered huge amounts of water vapor. Gas and dust likely form a torus around the central black hole, with clouds of charged gas above and below.",
+                        "center": "JPL",
+                        "title": "Quasar Drenched in Water Vapor Artist Concept",
+                        "description": "Artist concept illustrates a quasar, or feeding black hole, similar to APM 08279+5255, where astronomers discovered huge amounts of water vapor. Gas and dust likely form a torus around the central black hole, with clouds of charged gas above and below."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA16114/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA16114/PIA16114~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA23641",
+                        "date_created": "2020-01-08T00:00:00Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA, ESA and D. Player (STScI)",
+                        "description_508": "This graphic illustrates how a faraway quasar (an extremely bright region in the center of some distant galaxies) is altered by a massive foreground galaxy.",
+                        "center": "JPL",
+                        "title": "Gravitational Lensing Graphic",
+                        "keywords": [ "Gravitational Lensing" ],
+                        "description": "This graphic illustrates how a faraway quasar (an extremely bright region in the center of some distant galaxies) is altered by a massive foreground galaxy. The galaxy's powerful gravity warps and magnifies the quasar's light, producing four distorted images of the quasar.  Dark matter is an invisible substance that makes up the bulk of the universe's mass and creates the scaffolding upon which galaxies are built.  Quadruple images of a quasar rare because the background quasar and foreground galaxy require an almost perfect alignment.  https://photojournal.jpl.nasa.gov/catalog/PIA23641"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA23641/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA23641/PIA23641~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA15811",
+                        "date_created": "2012-08-29T17:00:03Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech/UCLA/STScI",
+                        "description_508": "This zoomed-in view of a portion of the all-sky survey from NASA Wide-field Infrared Survey Explorer shows a collection of quasar candidates shown in yellow circles. Quasars are supermassive black holes feeding off gas and dust.",
+                        "center": "JPL",
+                        "title": "Exposing Black Holes Disguised in Dust",
+                        "keywords": [ "Wide-field Infrared Survey Explorer WISE" ],
+                        "description": "This zoomed-in view of a portion of the all-sky survey from NASA Wide-field Infrared Survey Explorer shows a collection of quasar candidates shown in yellow circles. Quasars are supermassive black holes feeding off gas and dust."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA15811/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA15811/PIA15811~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA10093",
+                        "date_created": "2007-10-25T16:55:03Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech",
+                        "description_508": "A growing black hole, called a quasar, is seen at the center of a faraway galaxy in this artist concept. Astronomers using NASA Spitzer and Chandra space telescopes discovered swarms of similar quasars hiding in dusty galaxies in the distant universe.",
+                        "center": "JPL",
+                        "title": "Bursting with Stars and Black Holes  Artist Concept",
+                        "keywords": [ "Spitzer Space Telescope" ],
+                        "description": "A growing black hole, called a quasar, is seen at the center of a faraway galaxy in this artist concept. Astronomers using NASA Spitzer and Chandra space telescopes discovered swarms of similar quasars hiding in dusty galaxies in the distant universe."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA10093/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA10093/PIA10093~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "7995525",
+                        "date_created": "1979-01-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "High Energy Astronomy Observatory (HEAO)",
+                        "keywords": [ "High Energy Astronomy Observatory (HEAO)-2", "HEAO-2", "Einstein Observatory", "Quasar 3C 273" ],
+                        "description": "This image is an observation of Quasar 3C 273 by the High Energy Astronomy Observatory (HEAO)-2/Einstein Observatory. It reveals the presence of a new source (upper left) with a red shift that indicates that it is about 10 billion light years away. Quasars are mysterious, bright, star-like objects apparently located at the very edge of the visible universe. Although no bigger than our solar system, they radiate as much visible light as a thousand galaxies. Quasars also emit radio signals and were previously recognized as x-ray sources. The HEAO-2, the first imaging and largest x-ray telescope built to date, was capable of producing actual photographs of x-ray objects. Shortly after launch, the HEAO-2 was nicknamed the Einstein Observatory by its scientific experimenters in honor of the centernial of the birth of Albert Einstein, whose concepts of relativity and gravitation have influenced much of modern astrophysics, particularly x-ray astronomy. The HEAO-2 was designed and developed by TRW, Inc. under the project management of the Marshall Space Flight Center."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/7995525/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/7995525/7995525~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA15810",
+                        "date_created": "2012-08-29T17:00:02Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech/UCLA",
+                        "description_508": "With its all-sky infrared survey, NASA Wide-field Infrared Survey Explorer, or WISE, has identified millions of quasar candidates. Quasars are supermassive black holes with masses millions to billions times greater than our sun.",
+                        "center": "JPL",
+                        "title": "A Sky Chock-Full of Black Holes",
+                        "keywords": [ "Wide-field Infrared Survey Explorer WISE" ],
+                        "description": "With its all-sky infrared survey, NASA Wide-field Infrared Survey Explorer, or WISE, has identified millions of quasar candidates. Quasars are supermassive black holes with masses millions to billions times greater than our sun."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA15810/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA15810/PIA15810~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA15418",
+                        "date_created": "2012-03-16T00:10:07Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA, ESA, EPFL Switzerland",
+                        "description_508": "NASA Hubble Space Telescope sharp view was used to look for gravitational arcs and rings which are produced when one galaxy acts as a lens to magnify and distort the appearance of another galaxy behind it.",
+                        "center": "JPL",
+                        "title": "Quasar Lenses",
+                        "keywords": [ "Hubble Space Telescope" ],
+                        "description": "NASA Hubble Space Telescope sharp view was used to look for gravitational arcs and rings which are produced when one galaxy acts as a lens to magnify and distort the appearance of another galaxy behind it."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA15418/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA15418/PIA15418~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA18918",
+                        "date_created": "2015-02-19T18:53:01Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech/Keele Univ.",
+                        "description_508": "This plot of data from two space telescopes, NASA NuSTAR and ESA XMM-Newton determines for the first time the shape of ultra-fast winds from supermassive black holes, or quasars.",
+                        "center": "JPL",
+                        "title": "The Answer is Blowing in the Black Hole Wind",
+                        "keywords": [ "NuSTAR,XMM-Newton" ],
+                        "description": "This plot of data from two space telescopes, NASA NuSTAR and ESA XMM-Newton determines for the first time the shape of ultra-fast winds from supermassive black holes, or quasars."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA18918/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA18918/PIA18918~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA08617",
+                        "date_created": "2006-07-21T15:52:49Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech/Yale Univ.",
+                        "description_508": "This new false-colored image from NASA Hubble, Chandra and Spitzer space telescopes shows a giant jet of particles that has been shot out from the vicinity of a type of supermassive black hole called a quasar.",
+                        "center": "JPL",
+                        "title": "Black Hole Spills Kaleidoscope of Color",
+                        "keywords": [ "Hubble Space Telescope,Spitzer Space Telescope" ],
+                        "description": "This new false-colored image from NASA Hubble, Chandra and Spitzer space telescopes shows a giant jet of particles that has been shot out from the vicinity of a type of supermassive black hole called a quasar."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA08617/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA08617/PIA08617~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA10091",
+                        "date_created": "2007-10-25T16:55:01Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech/Commissariat a lEnergie Atomique",
+                        "description_508": "NASA Spitzer and Chandra space telescopes have uncovered a long-lost population of active supermassive black holes, or quasars located deep in the bellies of distant, massive galaxies circled in blue.",
+                        "center": "JPL",
+                        "title": "Missing Black Holes Found!",
+                        "keywords": [ "Spitzer Space Telescope" ],
+                        "description": "NASA Spitzer and Chandra space telescopes have uncovered a long-lost population of active supermassive black holes, or quasars located deep in the bellies of distant, massive galaxies circled in blue."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA10091/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA10091/PIA10091~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA08001",
+                        "date_created": "2005-08-03T20:45:00Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech/Oxford University",
+                        "description_508": "This false-color image from NASA Spitzer Space Telescope shows a distant galaxy yellow that houses a quasar, a super-massive black hole circled by a ring, or torus, of gas and dust.",
+                        "center": "JPL",
+                        "title": "Gorilla Black Hole in the Mist",
+                        "keywords": [ "AMS08", "Spitzer Space Telescope" ],
+                        "description": "This false-color image from NASA Spitzer Space Telescope shows a distant galaxy yellow that houses a quasar, a super-massive black hole circled by a ring, or torus, of gas and dust."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA08001/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA08001/PIA08001~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "ARC-1985-AC85-0199-3",
+                        "date_created": "1985-03-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "ARC",
+                        "title": "ARC-1985-AC85-0199-3",
+                        "description": "Art by Gebing Conception shows a quasar as a tremendous outburst in the core of a far-distant spiral galaxy"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/ARC-1985-AC85-0199-3/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1985-AC85-0199-3/ARC-1985-AC85-0199-3~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "GSFC_20120705_Space_Geodesy_m11031_Carey_Noll",
+                        "photographer": "Robert Andreoli",
+                        "secondary_creator": "Dan Gallagher",
+                        "description_508": "Computer scientist Carey Noll talks about her job as manager of the Crustal Dynamics Data Information System (CDDIS), the applications of her work for various space geodesy techniques such as GPS, and her career at NASA's Goddard Space Flight Center.",
+                        "center": "GSFC",
+                        "title": "Space Geodesy Profiles: Carey Noll",
+                        "keywords": [ "Quasar", "LRO", "Laser Ranging", "GPS", "Earth", "Universe", "VLBI" ],
+                        "description": "Scientists from NASA's Space Geodesy Project discuss the techniques they use to precisely measure the Earth's position in the universe, determine the Earth's center of mass, calibrate satellites, observe sea level rise, and track the movements of the tectonic plates.",
+                        "location": "Goddard Space Flight Center",
+                        "media_type": "video",
+                        "album": [ "Space Geodesy" ],
+                        "date_created": "2012-07-05T00:00:00Z"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Carey_Noll/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Carey_Noll/GSFC_20120705_Space_Geodesy_m11031_Carey_Noll~thumb.jpg"
+                    },
+                    {
+                        "rel": "captions",
+                        "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Carey_Noll/GSFC_20120705_Space_Geodesy_m11031_Carey_Noll.vtt"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "GSFC_20120705_Space_Geodesy_m11031_Chopo_Ma",
+                        "photographer": "Robert Andreoli",
+                        "secondary_creator": "Dan Gallagher",
+                        "description_508": "Space geodesist Chopo Ma explains the science of Very Long Baseline Interferometry (VLBI): using radio emissions from distant galaxies to create a precise reference frame for the Earth.",
+                        "center": "GSFC",
+                        "title": "Space Geodesy Profiles: Chopo Ma",
+                        "keywords": [ "Quasar", "LRO", "Laser Ranging", "GPS", "Geodesy", "Earth", "Universe", "VLBI" ],
+                        "description": "Scientists from NASA's Space Geodesy Project discuss the techniques they use to precisely measure the Earth's position in the universe, determine the Earth's center of mass, calibrate satellites, observe sea level rise, and track the movements of the tectonic plates.",
+                        "location": "Goddard Space Flight Center",
+                        "media_type": "video",
+                        "album": [ "Space Geodesy" ],
+                        "date_created": "2012-07-05T00:00:00Z"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Chopo_Ma/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Chopo_Ma/GSFC_20120705_Space_Geodesy_m11031_Chopo_Ma~thumb.jpg"
+                    },
+                    {
+                        "rel": "captions",
+                        "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Chopo_Ma/GSFC_20120705_Space_Geodesy_m11031_Chopo_Ma.vtt"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "GSFC_20120705_Space_Geodesy_m11031_Jan_McGarry",
+                        "photographer": "Robert Andreoli",
+                        "secondary_creator": "Dan Gallagher",
+                        "description_508": "Mathematician Jan McGarry discusses the science and history of Satellite Laser Ranging (SLR), her role in developing the Next Generation Satellite Laser Ranging system, and her career at NASA's Goddard Space Flight Center.",
+                        "center": "GSFC",
+                        "title": "Space Geodesy Profiles: Jan McGarry",
+                        "keywords": [ "Quasar", "LRO", "Laser Ranging", "GPS", "Geodesy", "Earth", "Universe", "VLBI" ],
+                        "description": "Scientists from NASA's Space Geodesy Project discuss the techniques they use to precisely measure the Earth's position in the universe, determine the Earth's center of mass, calibrate satellites, observe sea level rise, and track the movements of the tectonic plates.  Mathematician Jan McGarry discusses the science and history of Satellite Laser Ranging (SLR), her role in developing the Next Generation Satellite Laser Ranging system, and her career at NASA's Goddard Space Flight Center.",
+                        "location": "Goddard Space Flight Center",
+                        "media_type": "video",
+                        "album": [ "Space Geodesy" ],
+                        "date_created": "2012-07-05T00:00:00Z"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Jan_McGarry/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Jan_McGarry/GSFC_20120705_Space_Geodesy_m11031_Jan_McGarry~thumb.jpg"
+                    },
+                    {
+                        "rel": "captions",
+                        "href": "https://images-assets.nasa.gov/video/GSFC_20120705_Space_Geodesy_m11031_Jan_McGarry/GSFC_20120705_Space_Geodesy_m11031_Jan_McGarry.vtt"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "8113715",
+                        "date_created": "1981-01-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "History of Hubble Space Telescope (HST)",
+                        "keywords": [ "Hubble Space Telescope", "HST", "High Speed Photometer", "HSP" ],
+                        "description": "This drawing illustrates the Hubble Space Telescope's (HST's) High Speed Photometer (HSP). The HSP measures the intensity of starlight (brightness), which will help determine astronomical distances. Its principal use will be to measure extremely-rapid variations or pulses in light from celestial objects, such as pulsating stars. The HSP produces brightness readings. Light passes into one of four special signal-multiplying tubes that record the data. The HSP can measure energy fluctuations from objects that pulsate as rapidly as once every 10 microseconds. From HSP data, astronomers expect to learn much about such mysterious objects as pulsars, black holes, and quasars. The purpose of the HST, the most complex and sensitive optical telescope ever made, is to study the cosmos from a low-Earth orbit. By placing the telescope in space, astronomers are able to collect data that is free of the Earth's atmosphere. The HST views galaxies, stars, planets, comets, possibly other solar systems, and even unusual phenomena such as quasars, with 10 times the clarity of ground-based telescopes. The HST was deployed from the Space Shuttle Discovery (STS-31 mission) into Earth orbit in April 1990. The Marshall Space Flight Center had responsibility for design, development, and construction of the HST. The Perkin-Elmer Corporation, in Danbury, Cornecticut, developed the optical system and guidance sensors."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/8113715/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/8113715/8113715~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "GSFC_20171208_Archive_e001921",
+                        "location": "Greenbelt, MD",
+                        "date_created": "2011-01-11T18:27:29Z",
+                        "media_type": "image",
+                        "center": "GSFC",
+                        "title": "NASA's Hubble Zooms in on a Space Oddity",
+                        "keywords": [ "NASA's Hubble Zooms in on a Space Oddity" ],
+                        "description": "NASA image release January 10, 2011  In this image by NASA's Hubble Space Telescope, an unusual, ghostly green blob of gas appears to float near a normal-looking spiral galaxy.  The bizarre object, dubbed Hanny's Voorwerp (Hanny's Object in Dutch), is the only visible part of a 300,000-light-year-long streamer of gas stretching around the galaxy, called IC 2497. The greenish Voorwerp is visible because a searchlight beam of light from the galaxy's core illuminated it. This beam came from a quasar, a bright, energetic object that is powered by a black hole. The quasar may have turned off about 200,000 years ago.  This Hubble view uncovers a pocket of star clusters, the yellowish-orange area at the tip of Hanny's Voorwerp. The star clusters are confined to an area that is a few thousand light-years wide. The youngest stars are a couple of million years old. The Voorwerp is the size of our Milky Way galaxy, and its bright green color is from glowing oxygen.  Hubble also shows that gas flowing from IC 2497 may have instigated the star birth by compressing the gas in Hanny's Voorwerp. The galaxy is located about 650 million light-years from Earth.  What appears to be a gaping hole in Hanny's Voorwerp actually may be a shadow cast by an object in the quasar's light path. The feature gives the illusion of a hole about 20,000 light-years wide. Hubble reveals sharp edges but no other changes in the gas around the apparent opening, suggesting that an object close to the quasar may have blocked some of the light and projected a shadow on the Voorwerp. This phenomenon is similar to a fly on a movie projector lens casting a shadow on a movie screen.  An interaction between IC 2497 and another galaxy about a billion years ago may have created Hanny's Voorwerp and fueled the quasar. The Hubble image shows that IC 2497 has been disturbed, with complex dust patches, warped spiral arms, and regions of star formation around its core. These features suggest the aftermath of a galaxy merger. The bright spots in the central part of the galaxy are star-forming regions. The small, pinkish object to the lower right of IC 2497 is an edge-on spiral galaxy in the background.  The image was made by combining data from the Advanced Camera for Surveys (ACS) and the Wide Field Camera 3 (WFC3). The ACS exposures were taken April 12, 2010; the WFC3 data, April 4, 2010.  Object Names: Hanny's Voorwerp, IC 2497  Image Type: Astronomical  Credit: NASA, ESA, W. Keel (University of Alabama), and the Galaxy Zoo Team  <b><a href=\"http://www.nasa.gov/centers/goddard/home/index.html\" rel=\"nofollow\">NASA Goddard Space Flight Center</a></b> enables NASA’s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration, and Astrophysics. Goddard plays a leading role in NASA’s accomplishments by contributing compelling scientific knowledge to advance the Agency’s mission.  <b>Follow us on <a href=\"http://twitter.com/NASA_GoddardPix\" rel=\"nofollow\">Twitter</a></b>  <b>Join us on <a href=\"http://www.facebook.com/pages/Greenbelt-MD/NASA-Goddard/395013845897?ref=tsd\" rel=\"nofollow\">Facebook</a></b>"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001921/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001921/GSFC_20171208_Archive_e001921~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp1059",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-08-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp1059",
+                        "description": "STS-93 Commander Eileen M. Collins signs autographs after a mission presentation for KSC employees. The five-day mission primarily released the Chandra X-ray Observatory, allowing scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. STS-93 was also the first mission to have a woman serving as Shuttle commander"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp1059/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp1059/KSC-99pp1059~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "205_QuantumFoam",
+                        "date_created": "2015-12-31T00:00:00Z",
+                        "media_type": "video",
+                        "album": [ "NASA ScienceCasts" ],
+                        "center": "HQ",
+                        "title": "ScienceCast 205: Quantum Foam",
+                        "keywords": [ "NASA", "Science", "ScienceCasts", "SMD", "Science Mission Directorate", "astrophysics", "quantum mechanics", "relativity", "Einstein", "quasars" ],
+                        "description": "Researchers have used NASA space telescopes to prove that space-time is much less \"foamy\" than some models predict."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/video/205_QuantumFoam/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/video/205_QuantumFoam/205_QuantumFoam~thumb.jpg"
+                    },
+                    {
+                        "rel": "captions",
+                        "href": "https://images-assets.nasa.gov/video/205_QuantumFoam/205_QuantumFoam.srt"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0826",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0826",
+                        "description": "Center Director Roy D. Bridges Jr. greets STS-93 Commander Eileen M. Collins after her arrival at KSC's Shuttle Landing Facility aboard a T-38 jet aircraft (behind her). She and other crew members Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. \"Cady\" Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES), are arriving for pre-launch activities. Collins is the first woman to serve as mission commander. This is her third Shuttle flight. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0826/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0826/KSC-99pp0826~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0862",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0862",
+                        "description": "Space Shuttle Columbia catches the rising sun after the rollback of the Rotating Service Structure on Launch Pad 39-B. Columbia waits for the launch of mission STS-93 July 20 at 12:36 a.m. EDT. The primary payload of STS-93 is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0862/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0862/KSC-99pp0862~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0864",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0864",
+                        "description": "The rollback of the Rotating Service Structure on launch Pad 39-B reveals Space Shuttle Columbia on its mobile launcher platform, waiting for the launch of mission STS-93 on July 20 at 12:36 a.m. EDT. The primary payload of STS-93 is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0864/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0864/KSC-99pp0864~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0887",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0887",
+                        "description": "Members of the U.S. Women's World Cup Soccer Team were greeted upon their arrival at the Skid Strip at Cape Canaveral Air Station by Astronauts (right) Steven W. Lindsey, Heidemarie M. Stefanyshyn-Piper and Scott E. Parzynski. The team are here to view the launch of Space Shuttle mission STS-93, scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0887/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0887/KSC-99pp0887~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0889",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0889",
+                        "description": "Upon their arrival at the Skid Strip at Cape Canaveral Air Station, First Lady Hillary Rodham Clinton and her daughter, Chelsea, are greeted by NASA Administrator Daniel S. Goldin and Mrs. Goldin. Mrs. Clinton and Chelsea are here to view the launch of Space Shuttle mission STS-93, scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0889/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0889/KSC-99pp0889~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "ARC-1988-AC88-0595",
+                        "date_created": "1988-10-07T00:00:00Z",
+                        "media_type": "image",
+                        "center": "ARC",
+                        "title": "ARC-1988-AC88-0595",
+                        "description": "Artist: Rick Guidice SIRTF Artwork update - cutaway  Space Infrared Telescope Facility's  will orbit at 900 kilometers aboard a platform-type spacecraft, providing power, pointing, and communications to Earth. The telescope and its infrared instruments, will reside within a cylindrical cryogen tank. The hollow walls of the tank will contain the superfluid helium that cools the telescope to its operating temperature, a few degrees above absolute zero.   SIRTF will carry three versatile instruments to analyze the radiation it collects, the Multiband Imaging Photometer, the Infrared Array Camera, and the Infrared Spectrograph. SIRTF long lifetime - 5 years or more - will permit astronomers of all disciplines to use the facililty to carry out a wide variety of astrophysical programs. It will provide ongoing coverage of variable objects, such as quasars, as well as the capability to study rare and transient events such as comets and supernovae. SIRTF's long lifetime will also allow it to distinguish nearby objects by detecting their gradual motions relative to the more distant background stars."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/ARC-1988-AC88-0595/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1988-AC88-0595/ARC-1988-AC88-0595~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0825",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0825",
+                        "description": "STS-93 Mission Specialist Catherine G. \"Cady\" Coleman (Ph.D.) shows her sense of humor upon arriving at KSC's Shuttle Landing Facility aboard a T-38 jet aircraft. She and other crew members Commander Eileen Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES), are arriving for pre-launch activities. Coleman is making her second Shuttle flight. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0825/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0825/KSC-99pp0825~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0828",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0828",
+                        "description": "STS-93 Commander Eileen Collins poses for photographers in the early morning sun after landing at Kennedy Space Center's Shuttle Landing Facility (SLF) aboard a T-38 jet aircraft (background). She and other crew members Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. \"Cady\" Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES), are arriving for pre-launch activities. Collins is the first woman to serve as mission commander. This is her third Shuttle flight. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0828/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0828/KSC-99pp0828~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0830",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0830",
+                        "description": "The STS-93 crew leave the Shuttle Landing Facility after answering questions for the media and posing for photographers, whose shadows stretch across the SLF. From left are Mission Specialists Michel Tognini of France, who is with the Centre National d'Etudes Spatiales (CNES) and Steven A. Hawley (Ph.D.), Commander Eileen M. Collins (waving), Mission Specialist Catherine G. \"Cady\" Coleman (Ph.D.), and Pilot Jeffrey S. Ashby. The crew arrived at KSC for pre-launch activities. Collins is the first woman to serve as mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0830/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0830/KSC-99pp0830~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0861",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0861",
+                        "description": "The Rotating Service Structure is rolled back from Space Shuttle Columbia on Launch Pad 39-B, in preparation for launch of mission STS-93 July 20 at 12:36 a.m. EDT. The primary payload of STS-93 is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0861/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0861/KSC-99pp0861~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0879",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0879",
+                        "description": "First Lady Hillary Rodham Clinton (right) and her daughter, Chelsea, are greeted by NASA Astronaut Scott E. Parazynski (left) upon their arrival at the Skid Strip at Cape Canaveral Air Station to view the launch of Space Shuttle mission STS-93. Liftoff is scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0879/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0879/KSC-99pp0879~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0885",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0885",
+                        "description": "A member of the U.S. Women's World Cup Soccer Team is greeted by NASA Astronaut Scott E. Parazynski (left) upon her arrival at the Skid Strip at Cape Canaveral Air Station as her teammates look on. The team is at KSC to view the launch of Space Shuttle mission STS-93 scheduled for liftoff at 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0885/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0885/KSC-99pp0885~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0888",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0888",
+                        "description": "First Lady Hillary Rodham Clinton and her daughter, Chelsea, are greeted by NASA Administrator Daniel S. Goldin upon their arrival at the Skid Strip at Cape Canaveral Air Station. Next to Gold are (from left) Deputy Director for Business Operations Jim Jennings and Mrs. Goldin. Mrs. Clinton and Chelsea are here to view the launch of Space Shuttle mission STS-93, scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0888/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0888/KSC-99pp0888~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0891",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0891",
+                        "description": "First Lady Hillary Rodham Clinton is greeted by Astronauts (from left) Heidemarie M. Stefanyshyn-Piper, Steven W. Lindsey, and Nancy Jane Currie upon Mrs. Clinton's arrival at the Skid Strip at Cape Canaveral Air Station. She and her daughter, Chelsea (far right) are here to view the launch of Space Shuttle mission STS-93, scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0891/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0891/KSC-99pp0891~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0895",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0895",
+                        "description": "Among those gathered at the VIP viewing site for the launch of STS-93 are First Lady Hillary Rodham Clinton (center) and Donna Shalala, secretary , Department of Health and Human Services (far right). Also present is Chelsea Clinton. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes. Liftoff of Space Shuttle Columbia is scheduled for 12:36 a.m. EDT July 20"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0895/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0895/KSC-99pp0895~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0896",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0896",
+                        "description": "KENNEDY SPACE CENTER, FLA. -- At the Apollo/Saturn V Center, NASA Administrator Daniel Goldin (right) chats with First Lady Hillary Rodham Clinton and others while waiting for the launch of STS-93. Much attention has been generated over STS-93 due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes. Liftoff of Space Shuttle Columbia is scheduled for 12:36 a.m. EDT July 20"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0896/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0896/KSC-99pp0896~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0897",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0897",
+                        "description": "Generating her own attention waiting for the launch of STS-93 at the VIP viewing site is Chelsea Clinton, daughter of the President and Mrs. Clinton. The First Lady and Chelsea arrived earlier to view the launch. Much attention has been generated over STS-93 due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes. Liftoff of Space Shuttle Columbia is scheduled for 12:36 a.m. EDT July 20"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0897/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0897/KSC-99pp0897~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "STS093-S-002",
+                        "date_created": "1998-09-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "STS093-S-002",
+                        "description": "STS093-S-002 (September 1998) --- The five astronauts assigned to fly aboard the Space Shuttle Columbia early next year for the STS-93 mission pose with a small model of their primary payload-the Advanced X-ray Astrophysics Facility (AXAF). From the left are astronauts Eileen M. Collins, mission commander; Steven A. Hawley, mission specialist; Jeffrey S. Ashby, pilot; Michel Tognini and Catherine G. Coleman, both mission specialists. Tognini represents France's Centre National d'Etudes Spatiales (CNES). The scheduled five-day mission will feature the deployment of AXAF, which will enable scientists to conduct comprehensive studies of exotic phenomena in the universe. Among bodies studied will be exploding stars, quasars and black holes."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/STS093-S-002/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/STS093-S-002/STS093-S-002~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0822",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0822",
+                        "description": "STS-93 Commander Eileen Collins waves to spectators after landing at Kennedy Space Center's Shuttle Landing Facility (SLF) aboard a T-38 jet aircraft. She and other crew members Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. \"Cady\" Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES), are arriving for pre-launch activities. Collins is the first woman to serve as mission commander. This is her third Shuttle flight. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0822/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0822/KSC-99pp0822~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0823",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0823",
+                        "description": "STS-93 Pilot Jeffrey S. Ashby lands at Kennedy Space Center's Shuttle Landing Facility (SLF) aboard a T-38 jet aircraft. He and other crew members Commander Eileen Collins and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. \"Cady\" Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES), are arriving for pre-launch activities. STS-93 is Ashby's inaugural Shuttle flight. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0823/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0823/KSC-99pp0823~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0824",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0824",
+                        "description": "STS-93 Mission Specialist Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES), prepares to leave the T-38 jet aircraft that brought him to KSC's Shuttle Landing Facility. He and other crew members Commander Eileen Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.) and Catherine G. \"Cady\" Coleman (Ph.D.) are arriving for pre-launch activities. Tognini is making his inaugural Shuttle flight. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0824/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0824/KSC-99pp0824~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0827",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0827",
+                        "description": "After arrival at KSC's Shuttle Landing Facility, the STS-93 crew speak to the media about their mission. From left are Mission Specialists Michel Tognini of France, who is with the Centre National d'Etudes Spatiales (CNES), Steven A. Hawley (Ph.D.), and Catherine G. \"Cady\" Coleman (Ph.D.), Pilot Jeffrey S. Ashby, and Commander Eileen M. Collins. Hawley has the most Shuttle flights, this being his fifth. Collins is making her third flight (the first as a commander), Coleman is making her second flight, and Ashby and Tognini are making their first flights. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0827/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0827/KSC-99pp0827~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0829",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-16T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0829",
+                        "description": "STS-93 Commander Eileen Collins peers into the eastern early morning sky after landing at Kennedy Space Center's Shuttle Landing Facility (SLF) aboard a T-38 jet aircraft (background). She and other crew members Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. \"Cady\" Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES), are arriving for pre-launch activities. Collins is the first woman to serve as mission commander. This is her third Shuttle flight. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0829/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0829/KSC-99pp0829~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0863",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0863",
+                        "description": "Space Shuttle Columbia, sitting on its mobile launcher platform, is framed against the early morning sky after the rollback of the Rotating Service Structure on Launch Pad 39-B. Columbia waits for the launch of mission STS-93 July 20 at 12:36 a.m. EDT. The primary payload of STS-93 is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0863/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0863/KSC-99pp0863~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0865",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0865",
+                        "description": "STS-93 Commander Eileen M. Collins waves to her family nearby, a last meeting before launch of mission STS-93 on July 20. Liftoff is scheduled for 12:36 a.m. EDT. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0865/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0865/KSC-99pp0865~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0866",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0866",
+                        "description": "The STS-93 crew gathers for breakfast in the Operations and Checkout Building before suiting up for launch. Space Shuttle Columbia is due to launch Tuesday, July 20, at 12:36 a.m. EDT. Seated from left are Mission Specialists Michel Tognini, of France, who represents the Centre National d'Etudes Spatiales (CNES), and Steven A. Hawley (Ph.D.), Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialist Catherine G. Coleman (Ph.D.). STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. Collins is the first woman to serve as commander of a Shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0866/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0866/KSC-99pp0866~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0880",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0880",
+                        "description": "First Lady Hillary Rodham Clinton (right) and her daughter, Chelsea, are greeted by NASA Astronaut Scott E. Parazynski (left) upon their arrival at the Skid Strip at Cape Canaveral Air Station to view the launch of Space Shuttle mission STS-93. Liftoff is scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0880/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0880/KSC-99pp0880~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0884",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0884",
+                        "description": "A member of the U.S. Women's World Cup Soccer Team poses with Astronauts (from left) Steven W. Lindsey, Nancy Jane Currie and Laurel B. Clark. The team arrived at the Skid Strip at Cape Canaveral Air Station with First Lady Hillary Rodham Clinton to view the launch of Space Shuttle mission STS-93. Liftoff is scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0884/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0884/KSC-99pp0884~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0886",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0886",
+                        "description": "A member of the U.S. Women's World Cup Soccer Team is greeted by NASA Astronaut Heidemarie M. Stefanyshyn-Piper (left) upon her arrival at the Skid Strip at Cape Canaveral Air Station to view the launch of Space Shuttle mission STS-93. Liftoff is scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0886/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0886/KSC-99pp0886~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0890",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0890",
+                        "description": "First Lady Hillary Rodham Clinton is greeted by Astronaut Nancy Jane Currie upon Mrs. Clinton's arrival at the Skid Strip at Cape Canaveral Air Station. Waiting at left are Astronauts Heidemarie M. Stefanyshyn-Piper and Steven W. Lindsey. Mrs. Clinton and her daughter, Chelsea (far right) are here to view the launch of Space Shuttle mission STS-93, scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0890/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0890/KSC-99pp0890~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0893",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0893",
+                        "description": "KENNEDY SPACE CENTER, FLA. -- In the VIP Lounge, Apollo/Saturn V Center, First Lady Hillary Rodham Clinton gets ready to speak to the group gathered there before the launch of STS-93. At right is NASA Administrator Daniel Goldin. Liftoff of Space Shuttle Columbia is scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0893/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0893/KSC-99pp0893~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp1058",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-08-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp1058",
+                        "description": "STS-93 Pilot Jeffrey S. Ashby signs autographs after a mission presentation for KSC employees. The five-day mission primarily released the Chandra X-ray Observatory, allowing scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. STS-93 was also the first mission to have a woman, Eileen M. Collins, serving as Shuttle commander"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp1058/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp1058/KSC-99pp1058~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "9705914",
+                        "date_created": "1996-11-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "Space Shuttle Projects",
+                        "keywords": [ "STS-80", "Orbiting Retrievable Far and Extreme Ultraviolet Spectrometer-Shuttle Pallet Satellite II", "ORFEUS-SPAS II", "German Space Agency", "DARA" ],
+                        "description": "This STS-80 onboard photograph shows the Orbiting Retrievable Far and Extreme Ultraviolet Spectrometer-Shuttle Pallet Satellite II (ORFEUS-SPAS II), photographed during approach by the Space Shuttle Orbiter Columbia for retrieval. Built by the German Space Agency, DARA, the ORFEUS-SPAS II, a free-flying satellite, was dedicated to astronomical observations at very short wavelengths to: investigate the nature of hot stellar atmospheres, investigate the cooling mechanisms of white dwarf stars, determine the nature of accretion disks around collapsed stars, investigate supernova remnants, and investigate the interstellar medium and potential star-forming regions. Some 422 observations of almost 150 astronomical objects were completed, including the Moon, nearby stars, distant Milky Way stars, stars in other galaxies, active galaxies, and quasar 3C273. The STS-80 mission was launched November 19, 1996."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/9705914/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/9705914/9705914~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "PIA20057",
+                        "date_created": "2015-12-17T16:50:01Z",
+                        "media_type": "image",
+                        "secondary_creator": "NASA/JPL-Caltech/Roma Tre Univ.",
+                        "description_508": "Galaxy NGC 1068 is shown in visible light and X-rays in this composite image. High-energy X-rays magenta captured by NASA's NuSTAR, are overlaid on visible-light images from both NASA Hubble Space Telescope and the Sloan Digital Sky Survey.",
+                        "center": "JPL",
+                        "title": "NuSTAR View of Galaxy NGC 1068",
+                        "keywords": [ "Hubble Space Telescope,NuSTAR", "NGC 1068", "spiral galaxy" ],
+                        "description": "Galaxy NGC 1068 is shown in visible light and X-rays in this composite image. High-energy X-rays (magenta) captured by NASA's Nuclear Spectroscopic Telescope Array, or NuSTAR, are overlaid on visible-light images from both NASA's Hubble Space Telescope and the Sloan Digital Sky Survey. The X-ray light is coming from an active supermassive black hole, also known as a quasar, in the center of the galaxy. This supermassive black hole has been extensively studied due to its relatively close proximity to our galaxy. NGC 1068 is about 47 million light-years away in the constellation Cetus.  The supermassive black hole is also one of the most obscured known, blanketed by thick clouds of gas and dust. NuSTAR's high-energy X-ray view is the first to penetrate the walls of this black hole's hidden lair.  http://photojournal.jpl.nasa.gov/catalog/PIA20057"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/PIA20057/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA20057/PIA20057~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "8911183",
+                        "date_created": "1989-01-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "Spacelab",
+                        "keywords": [ "Astro-1", "Hopkins Ultraviolet Telescope", "HUT", "Wisconsin Ultraviolet Photo-Polarimeter Experiment", "WUPPE", "Ultraviolet Imaging Telescope", "UIT", "Broad Band X-Ray Telescope", "BBXRT", "STS-35" ],
+                        "description": "In 1986, NASA introduced a Shuttle-borne ultraviolet observatory called Astro. The Astro Observatory was designed to explore the universe by observing and measuring the ultraviolet radiation from celestial objects. Astronomical targets of observation selected for Astro missions included planets, stars, star clusters, galaxies, clusters of galaxies, quasars, remnants of exploded stars (supernovae), clouds of gas and dust (nebulae), and the interstellar medium. Astro-1 used a Spacelab pallet system with an instrument pointing system and a cruciform structure for bearing the three ultraviolet instruments mounted in a parallel configuration. The three instruments were: The Hopkins Ultraviolet Telescope (HUT), which was designed to obtain far-ultraviolet spectroscopic data from white dwarfs, emission nebulae, active galaxies, and quasars; the Wisconsin Ultraviolet Photo-Polarimeter Experiment (WUPPE) which was to study polarized ultraviolet light from magnetic white dwarfs, binary stars, reflection nebulae, and active galaxies; and the Ultraviolet Imaging Telescope (UIT) which was to record photographic images in ultraviolet light of galaxies, star clusters, and nebulae. The star trackers that supported the instrument pointing system were also mounted on the cruciform. Also in the payload bay was the Broad Band X-Ray Telescope (BBXRT), which was designed to obtain high-resolution x-ray spectra from stellar corona, x-ray binary stars, active galactic nuclei, and galaxy clusters. Managed by the Marshall Space Flight Center, the Astro-1 observatory was launched aboard the Space Shuttle Orbiter Columbia (STS-35) on December 2, 1990."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/8911183/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/8911183/8911183~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0709",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-18T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0709",
+                        "description": "Inside the Vertical Processing Facility, doors on the payload canister begin to close on the Chandra X-ray Observatory inside before being moved to Launch Pad 39B. Liftoff will take place no earlier than July 20 at 12:36 a.m. EDT aboard Space Shuttle Columbia, on mission STS-93. Chandra will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe, map the location of dark matter and help to identify it, and probe the faintest of active galaxies, allowing scientists to study not only how their energy output changes with time, but also how these objects produce their intense energy emissions in the first place. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0709/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0709/KSC-99pp0709~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0710",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0710",
+                        "description": "STS-93 Commander Eileen M. Collins smiles on her arrival at KSC's Shuttle Landing Facility aboard a T-38 jet aircraft to participate in Terminal Countdown Demonstration Tests (TCDT) this week. TCDT activities familiarize the crew with the mission, provide training in emergency exit from the orbiter and launch pad, and include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Joining Collins are Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0710/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0710/KSC-99pp0710~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0715",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0715",
+                        "description": "The STS-93 crew pose for photographers and the media after arriving at KSC's Shuttle Landing Facility to participate in Terminal Countdown Demonstration Tests (TCDT) this week. From left are Mission Specialists Steven A. Hawley (Ph.D.) and Michel Tognini of France, Commander Eileen M. Collins at the microphone, Pilot Jeffrey S. Ashby, and Mission Specialist Catherine G. Coleman (Ph.D.). Collins is the first woman to serve as mission commander. Tognini represents the Centre National d'Etudes Spatiales (CNES). TCDT activities familiarize the crew with the mission, provide training in emergency exit from the orbiter and launch pad, and include a launch-day dress rehearsal culminating with a simulated main engine cut-off. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0715/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0715/KSC-99pp0715~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0723",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-22T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0723",
+                        "description": "The STS-93 crew pose in front of an M-113, an armored personnel carrier, which they will use for emergency egress training from the launch pad. From left are Mission Specialist Steven A. Hawley (Ph.D.), Pilot Jeffrey S. Ashby, Mission Specialist Michel Tognini of France, Commander Eileen M. Collins and Mission Specialist Catherine G. Coleman (Ph.D.). Collins is the first woman to serve as mission commander. Tognini represents the Centre National d'Etudes Spatiales (CNES). TCDT activities familiarize the crew with the mission, provide training in emergency exit from the orbiter and launch pad, and include a launch-day dress rehearsal culminating with a simulated main engine cut-off. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. The targeted launch date for STS-93 is no earlier than July 20 at 12:36 a.m. EDT from Launch Pad 39B"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0723/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0723/KSC-99pp0723~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0726",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-22T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0726",
+                        "description": "STS-93 Commander Eileen M. Collins climbs into an M-113 armored personnel carrier at the launch pad to take part in emergency egress training. Collins is the first woman to serve as mission commander. In preparation for their mission, the STS-93 crew are participating in Terminal Countdown Demonstration Test activities that also include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Others in the crew are Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.), and Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES). The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. The targeted launch date for STS-93 is no earlier than July 20 at 12:36 a.m. EDT from Launch Pad 39B"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0726/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0726/KSC-99pp0726~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0871",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0871",
+                        "description": "In the Operations and Checkout Building, STS-93 Mission Specialist Catherine G. Coleman (Ph.D.) waves after donning her launch and entry suit during final launch preparations. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Coleman and Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission. STS-93 is scheduled to lift off at 12:36 a.m. EDT July 20. The target landing date is July 24 at 11:30 p.m. EDT"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0871/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0871/KSC-99pp0871~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0892",
+                        "location": "Cape Canaveral, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0892",
+                        "description": "Members of the U.S. World Cup Soccer Team pose with Astronauts Scott Parazynski, Heidemarie M. Stefanyshyn-Piper, Steven W. Lindsey, and Nancy Jane Currie and NASA Administrator Daniel Goldin after the team's arrival at the Skid Strip at Cape Canaveral Air Station. The team arrived with First Lady Hillary Rodham Clinton to view the launch of Space Shuttle mission STS-93. Liftoff is scheduled for 12:36 a.m. EDT July 20. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0892/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0892/KSC-99pp0892~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0917",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0917",
+                        "description": "In the Operations and Checkout Building, STS-93 Mission Specialist Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES), waves after donning his launch and entry suit during final launch preparations for the second time. After Space Shuttle Columbia's July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. The target landing date is July 26, 1999, at 11:24 p.m. EDT. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Tognini. Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0917/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0917/KSC-99pp0917~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0918",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0918",
+                        "description": "During final launch preparations in the Operations and Checkout Building, STS-93 Mission Specialist Catherine G. Coleman (Ph.D.) gets help with her launch and entry suit from a suit tech. After Space Shuttle Columbia's July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. The target landing date is July 26, 1999, at 11:24 p.m. EDT. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Coleman and Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0918/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0918/KSC-99pp0918~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0921",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0921",
+                        "description": "The STS-93 crew wave to onlookers as they walk out of the Operations and Checkout Building for the second time enroute to Launch Pad 39-B and liftoff of Space Shuttle Columbia. After Space Shuttle Columbia's July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. The target landing date is July 26, 1999, at 11:24 p.m. EDT. In their orange launch and entry suits, they are (starting at rear, left to right) Mission Specialists Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES), and Catherine G. Coleman (Ph.D.); Pilot Jeffrey S. Ashby; Mission Specialist Steven A. Hawley (Ph.D.); and Commander Eileen M. Collins. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. Collins is the first woman to serve as commander of a Shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0921/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0921/KSC-99pp0921~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "9126282",
+                        "date_created": "1990-12-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "Spacelab",
+                        "keywords": [ "STS-35", "Astro-1", "HUT", "UIT", "WUPPE", "IPS", "BBXRT" ],
+                        "description": "Onboard the Space Shuttle Orbiter Columbia (STS-35), the various components of the Astro-1 payload are seen backdropped against a blue and white Earth. Parts of the Hopkins Ultraviolet Telescope (HUT), the Ultraviolet Imaging Telescope (UIT), and the Wisconsin Ultraviolet Photo-Polarimetry Experiment (WUPPE) are visible on the Spacelab pallet. The Broad-Band X-Ray Telescope (BBXRT) is behind the pallet and is not visible in this scene. The smaller cylinder in the foreground is the igloo. The igloo was a pressurized container housing the Command Data Management System, that interfaced with the in-cabin controllers to control the Instrument Pointing System (IPS) and the telescopes. The Astro Observatory was designed to explore the universe by observing and measuring the ultraviolet radiation from celestial objects. Astronomical targets of observation selected for Astro missions included planets, stars, star clusters, galaxies, clusters of galaxies, quasars, remnants of exploded stars (supernovae), clouds of gas and dust (nebulae), and the interstellar medium. Managed by the Marshall Space Flight Center, the Astro-1 was launched aboard the Space Shuttle Orbiter Columbia (STS-35) on December 2, 1990."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/9126282/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/9126282/9126282~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "9127075",
+                        "date_created": "1990-12-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "Spacelab",
+                        "keywords": [ "STS-35", "Astro-1", "HUT", "UIT", "WUPPE", "IPS", "BBXRT" ],
+                        "description": "Onboard the Space Shuttle Orbiter Columbia (STS-35), the various components of the Astro-1 payload are seen backdropped against dark space. Parts of the Hopkins Ultraviolet Telescope (HUT), Ultraviolet Imaging Telescope (UIT), and the Wisconsin Ultraviolet Photo-Polarimetry Experiment (WUPPE) are visible on the Spacelab pallet. The Broad-Band X-Ray Telescope (BBXRT) is behind the pallet and is not visible in this scene. The smaller cylinder in the foreground is the igloo. The igloo was a pressurized container housing the Command Data Management System, that interfaced with the in-cabin controllers to control the Instrument Pointing System (IPS) and the telescopes. The Astro Observatory was designed to explore the universe by observing and measuring the ultraviolet radiation from celestial objects. Astronomical targets of observation selected for Astro missions included planets, stars, star clusters, galaxies, clusters of galaxies, quasars, remnants of exploded stars (supernovae), clouds of gas and dust (nebulae), and the interstellar medium. Managed by the Marshall Space Flight Center, the Astro-1 was launched aboard the Space Shuttle Orbiter Columbia (STS-35) on December 2, 1990."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/9127075/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/9127075/9127075~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0725",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-22T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0725",
+                        "description": "During emergency egress training inside an M-113 armored personnel carrier at the launch pad, Mission Specialist Michel Tognini of France and Commander Eileen M. Collins share a light moment. In preparation for their mission, the STS-93 crew are participating in Terminal Countdown Demonstration Test activities that also include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Also at KSC are Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.), and Catherine G. Coleman (Ph.D.). Collins is the first woman to serve as mission commander. Tognini represents the Centre National d'Etudes Spatiales (CNES). The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. The targeted launch date for STS-93 is no earlier than July 20 at 12:36 a.m. EDT from Launch Pad 39B"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0725/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0725/KSC-99pp0725~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0868",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0868",
+                        "description": "In the Operations and Checkout Building, STS-93 Commander Eileen M. Collins waves while a suit tech adjusts her boot, part of the launch and entry suit, during final launch preparations. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission. STS-93 is scheduled to lift off at 12:36 a.m. EDT July 20. The target landing date is July 24 at 11:30 p.m. EDT"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0868/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0868/KSC-99pp0868~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0869",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0869",
+                        "description": "In the Operations and Checkout Building, STS-93 Mission Specialist Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES), waves after donning his launch and entry suit during final launch preparations. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Tognini. Collins is the first woman to serve as commander of a shuttle mission. STS-93 is scheduled to lift off at 12:36 a.m. EDT July 20. The target landing date is July 24 at 11:30 p.m. EDT"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0869/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0869/KSC-99pp0869~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0873",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0873",
+                        "description": "The STS-93 crew wave to onlookers as they walk to the \"Astrovan,\" which will transport them to Launch Pad 39-B and liftoff of Space Shuttle Columbia. In their orange launch and entry suits, they are (starting at rear, left to right) Mission Specialists Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES), Catherine G. Coleman (Ph.D.), and Mission Specialist Stephen A. Hawley (Ph.D.); Pilot Jeffrey S. Ashby; and Commander Eileen M. Collins. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. Collins is the first woman to serve as commander of a Shuttle mission. STS-93 is scheduled to lift off at 12:36 a.m. EDT July 20. The target landing date is July 24 at 11:31 p.m. EDT"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0873/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0873/KSC-99pp0873~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0894",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0894",
+                        "description": "KENNEDY SPACE CENTER, FLA. -- The group waiting in the Apollo/Saturn V Center for the launch of STS-93 pose for a photo. Among the spectators gathered are First Lady Hillary Rodham Clinton and her daughter, Chelsea, NASA Administrator Daniel Goldin, astronauts, and attendees of a Women in Space forum, including Donna Shalala, secretary , Department of Health and Human Services. Much attention has been generated over the launch due to Commander Eileen M. Collins, the first woman to serve as commander of a Shuttle mission. The primary payload of the five-day mission is the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected to unlock the secrets of supernovae, quasars and black holes. Liftoff of Space Shuttle Columbia is scheduled for 12:36 a.m. EDT July 20"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0894/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0894/KSC-99pp0894~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0915",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0915",
+                        "description": "In the Operations and Checkout Building, STS-93 Commander Eileen M. Collins gets help donning her launch and entry suit. After Space Shuttle Columbia's July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. The target landing date is July 26, 1999, at 11:24 p.m. EDT. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0915/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0915/KSC-99pp0915~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0920",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0920",
+                        "description": "During final launch preparations in the Operations and Checkout Building, STS-93 Mission Specialist Steven A. Hawley (Ph.D.)gets help donning his launch and entry suit from a suit tech. After Space Shuttle Columbia's July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. The target landing date is July 26, 1999, at 11:24 p.m. EDT. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Hawley, Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0920/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0920/KSC-99pp0920~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0708",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-18T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0708",
+                        "description": "Inside the Vertical Processing Facility, the Chandra X-ray Observatory sits inside the payload canister, ready to be moved to Launch Pad 39B. Liftoff will take place no earlier than July 20 at 12:36 a.m. EDT aboard Space Shuttle Columbia, on mission STS-93. Chandra will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe, map the location of dark matter and help to identify it, and probe the faintest of active galaxies, allowing scientists to study not only how their energy output changes with time, but also how these objects produce their intense energy emissions in the first place. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0708/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0708/KSC-99pp0708~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0711",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0711",
+                        "description": "STS-93 Mission Specialist Catherine G. Coleman (Ph.D.) grins on her arrival at KSC's Shuttle Landing Facility aboard a T-38 jet to participate in Terminal Countdown Demonstration Tests (TCDT) this week. TCDT activities familiarize the crew with the mission, provide training in emergency exit from the orbiter and launch pad, and include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Joining Coleman are Commander Eileen M. Collins, Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.) and Michel Tognini of France, who is with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0711/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0711/KSC-99pp0711~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0712",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0712",
+                        "description": "STS-93 Michel Tognini of France arrives at KSC's Shuttle Landing Facility to participate in Terminal Countdown Demonstration Tests (TCDT) this week. TCDT activities familiarize the crew with the mission, provide training in emergency exit from the orbiter and launch pad, and include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Joining Tognini are Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Catherine G. Coleman (Ph.D.) and Steven A. Hawley (Ph.D.). Tognini represents the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0712/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0712/KSC-99pp0712~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0713",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0713",
+                        "description": "STS-93 Mission Specialist Steven A. Hawley (Ph.D.) grins as he steps down from a T-38 jet aircraft after landing at KSC's Shuttle Landing Facility. The STS-93 crew are at KSC to participate in Terminal Countdown Demonstration Tests (TCDT) this week. TCDT activities familiarize the crew with the mission, provide training in emergency exit from the orbiter and launch pad, and include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Joining Hawley are Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0713/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0713/KSC-99pp0713~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0714",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0714",
+                        "description": "STS-93 Commander Eileen M. Collins talks to the media after arriving at KSC's Shuttle Landing Facility to participate in Terminal Countdown Demonstration Tests (TCDT) this week. TCDT activities familiarize the crew with the mission, provide training in emergency exit from the orbiter and launch pad, and include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Collins is the first woman to serve as mission commander. Joining Collins are Pilot Jeffrey S. Ashby and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0714/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0714/KSC-99pp0714~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0727",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-22T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0727",
+                        "description": "STS-93 Pilot Jeffrey S. Ashby pauses for the photographer before climbing into an M-113 armored personnel carrier at the launch pad to take part in emergency egress training. In preparation for their mission, the STS-93 crew are participating in Terminal Countdown Demonstration Test activities that also include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Others in the crew are Commander Eileen M. Collins and Mission Specialists Steven A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.), and Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as a mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. The targeted launch date for STS-93 is no earlier than July 20 at 12:36 a.m. EDT from Launch Pad 39B"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0727/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0727/KSC-99pp0727~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0728",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-22T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0728",
+                        "description": "STS-93 Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES), pauses for the photographer before climbing into an M-113 armored personnel carrier at the launch pad to take part in emergency egress training. In preparation for their mission, the STS-93 crew are participating in Terminal Countdown Demonstration Test activities that also include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Others in the crew are Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.) and Catherine G. Coleman (Ph.D.). Collins is the first woman to serve as a mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. The targeted launch date for STS-93 is no earlier than July 20 at 12:36 a.m. EDT from Launch Pad 39B"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0728/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0728/KSC-99pp0728~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0729",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-22T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0729",
+                        "description": "STS-93 Mission Specialist Catherine G. Coleman (Ph.D.) smiles for the photographer before climbing into an M-113 armored personnel carrier at the launch pad to take part in emergency egress training. In preparation for their mission, the STS-93 crew are participating in Terminal Countdown Demonstration Test activities that also include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Others in the crew are Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Steven A. Hawley (Ph.D.) and Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as a mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. The targeted launch date for STS-93 is no earlier than July 20 at 12:36 a.m. EDT from Launch Pad 39B"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0729/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0729/KSC-99pp0729~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0731",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-06-22T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0731",
+                        "description": "STS-93 Mission Specialist Steven A. Hawley (Ph.D.) smiles for the photographer before climbing into an M-113 armored personnel carrier at the launch pad to take part in emergency egress training. In preparation for their mission, the STS-93 crew are participating in Terminal Countdown Demonstration Test activities that also include a launch-day dress rehearsal culminating with a simulated main engine cut-off. Others in the crew are Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Catherine G. Coleman (Ph.D.) and Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as a mission commander. The primary mission of STS-93 is the release of the Chandra X-ray Observatory, which will allow scientists from around the world to obtain unprecedented X-ray images of exotic environments in space to help understand the structure and evolution of the universe. Chandra is expected to provide unique and crucial information on the nature of objects ranging from comets in our solar system to quasars at the edge of the observable universe. Since X-rays are absorbed by the Earth's atmosphere, space-based observatories are necessary to study these phenomena and allow scientists to analyze some of the greatest mysteries of the universe. The targeted launch date for STS-93 is no earlier than July 20 at 12:36 a.m. EDT from Launch Pad 39B"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0731/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0731/KSC-99pp0731~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0867",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0867",
+                        "description": "In the Operations and Checkout Building, STS-93 Mission Specialist Steven A. Hawley (Ph.D.) smiles after donning his launch and entry suit during final launch preparations. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Hawley, Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission. STS-93 is scheduled to lift off at 12:36 a.m. EDT July 20. The target landing date is July 24 at 11:30 p.m. EDT"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0867/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0867/KSC-99pp0867~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0870",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0870",
+                        "description": "In the Operations and Checkout Building during final launch preparations, STS-93 Pilot Jeffrey S. Ashby waits after donning his launch and entry suit while a suit tech adjusts his helmet. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission. STS-93 is scheduled to lift off at 12:36 a.m. EDT July 20. The target landing date is July 24 at 11:30 p.m. EDT"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0870/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0870/KSC-99pp0870~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0872",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0872",
+                        "description": "The STS-93 crew wave to onlookers as they walk out of the Operations and Checkout Building enroute to Launch Pad 39-B and liftoff of Space Shuttle Columbia. In their orange launch and entry suits, they are (starting at rear, left to right) Mission Specialists Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES), and Catherine G. Coleman (Ph.D.); Pilot Jeffrey S. Ashby; Mission Specialist Stephen A. Hawley (Ph.D.); and Commander Eileen M. Collins. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. Collins is the first woman to serve as commander of a Shuttle mission. STS-93 is scheduled to lift off at 12:36 a.m. EDT July 20. The target landing date is July 24 at 11:31 p.m. EDT"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0872/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0872/KSC-99pp0872~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0914",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0914",
+                        "description": "The STS-93 crew gathers a second time for a pre-launch breakfast in the Operations and Checkout Building before suiting up for launch. After Space Shuttle Columbia's July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. Seated from left are Mission Specialists Michel Tognini, of France, who represents the Centre National d'Etudes Spatiales (CNES), and Steven A. Hawley (Ph.D.), Commander Eileen M. Collins, Pilot Jeffrey S. Ashby, and Mission Specialist Catherine G. Coleman (Ph.D.). STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. Collins is the first woman to serve as commander of a Shuttle mission. The target landing date is July 26, 1999, at 11:24 p.m. EDT"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0914/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0914/KSC-99pp0914~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0916",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0916",
+                        "description": "In the Operations and Checkout Building during final launch preparations for the second time, STS-93 Pilot Jeffrey S. Ashby waves after donning his launch and entry suit while a suit tech adjusts his boot. After Space Shuttle Columbia's July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. The target landing date is July 26, 1999, at 11:24 p.m. EDT. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Eileen M. Collins, Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0916/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0916/KSC-99pp0916~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0919",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0919",
+                        "description": "During final launch preparations in the Operations and Checkout Building, STS-93 Commander Eileen M. Collins waves after donning her launch and entry suit. After Space Shuttle Columbia's July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. The target landing date is July 26, 1999, at 11:24 p.m. EDT. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. The STS-93 crew numbers five: Commander Collins, Pilot Jeffrey S. Ashby, and Mission Specialists Stephen A. Hawley (Ph.D.), Catherine G. Coleman (Ph.D.) and Michel Tognini of France, with the Centre National d'Etudes Spatiales (CNES). Collins is the first woman to serve as commander of a shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0919/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0919/KSC-99pp0919~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "KSC-99pp0922",
+                        "location": "Kennedy Space Center, FL",
+                        "date_created": "1999-07-21T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-99pp0922",
+                        "description": "Flanked by security, the STS-93 crew wave to onlookers as they head for the \"Astrovan\" a second time to take them to Launch Pad 39-B and liftoff of Space Shuttle Columbia. After the July 20 launch attempt was scrubbed at the T-7 second mark in the countdown, the launch was rescheduled for Thursday, July 22, at 12:28 a.m. EDT. The target landing date is July 26, 1999, at 11:24 p.m. EDT. In their orange launch and entry suits, they are (starting at rear, left to right) Mission Specialists Michel Tognini of France, who represents the Centre National d'Etudes Spatiales (CNES), Catherine G. Coleman (Ph.D.), and Steven A. Hawley (Ph.D.); Pilot Jeffrey S. Ashby; and Commander Eileen M. Collins. STS-93 is a five-day mission primarily to release the Chandra X-ray Observatory, which will allow scientists from around the world to study some of the most distant, powerful and dynamic objects in the universe. The new telescope is 20 to 50 times more sensitive than any previous X-ray telescope and is expected unlock the secrets of supernovae, quasars and black holes. Collins is the first woman to serve as commander of a Shuttle mission"
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/KSC-99pp0922/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-99pp0922/KSC-99pp0922~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o",
+                        "date_created": "2015-10-12T00:00:00Z",
+                        "media_type": "image",
+                        "center": "GSFC",
+                        "title": "Elegant spiral hides a hungry monster",
+                        "keywords": [ "NGC 4639" ],
+                        "description": "NGC 4639 is a beautiful example of a type of galaxy known as a barred spiral. It lies over 70 million light-years away in the constellation of Virgo and is one of about 1500 galaxies that make up the Virgo Cluster. In this image, taken by the NASA/ESA Hubble Space Telescope, one can clearly see the bar running through the bright, round core of the galaxy. Bars are found in around two thirds of spiral galaxies, and are thought to be a natural phase in their evolution. The galaxy’s spiral arms are sprinkled with bright regions of active star formation. Each of these tiny jewels is actually several hundred light-years across and contains hundreds or thousands of newly formed stars. But NGC 4639 also conceals a dark secret in its core — a massive black hole that is consuming the surrounding gas. This is known as an active galactic nucleus (AGN), and is revealed by characteristic features in the spectrum of light from the galaxy and by X-rays produced close to the black hole as the hot gas plunges towards it. Most galaxies are thought to contain a black hole at the centre. NGC 4639 is in fact a very weak example of an AGN, demonstrating that AGNs exist over a large range of activity, from galaxies like NGC 4639 to distant quasars, where the parent galaxy is almost completely dominated by the emissions from the AGN."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "0003356",
+                        "date_created": "1991-04-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "n/a",
+                        "keywords": [ "STS-37", "Compton Gamma-Ray Observatory", "GRO", "Burst and Transient Source Experiment", "BATSE" ],
+                        "description": "This photograph shows the Compton Gamma-Ray Observatory (GRO) being deployed by the Remote Manipulator System (RMS) arm aboard the Space Shuttle Atlantis during the STS-37 mission in April 1991. The GRO reentered Earth atmosphere and ended its successful mission in June 2000. For nearly 9 years, the GRO Burst and Transient Source Experiment (BATSE), designed and built by the Marshall Space Flight Center (MSFC), kept an unblinking watch on the universe to alert scientists to the invisible, mysterious gamma-ray bursts that had puzzled them for decades. By studying gamma-rays from objects like black holes, pulsars, quasars, neutron stars, and other exotic objects, scientists could discover clues to the birth, evolution, and death of stars, galaxies, and the universe. The gamma-ray instrument was one of four major science instruments aboard the Compton. It consisted of eight detectors, or modules, located at each corner of the rectangular satellite to simultaneously scan the entire universe for bursts of gamma-rays ranging in duration from fractions of a second to minutes. In January 1999, the instrument, via the Internet, cued a computer-controlled telescope at Las Alamos National Laboratory in Los Alamos, New Mexico, within 20 seconds of registering a burst. With this capability, the gamma-ray experiment came to serve as a gamma-ray burst alert for the Hubble Space Telescope, the Chandra X-Ray Observatory, and major gound-based observatories around the world. Thirty-seven universities, observatories, and NASA centers in 19 states, and 11 more institutions in Europe and Russia, participated in the BATSE science program."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/0003356/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/0003356/0003356~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "0201791",
+                        "date_created": "2001-08-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "Space Shuttle Projects",
+                        "keywords": [ "STS-109", "Hubble Space Telescope", "HST", "Logo" ],
+                        "description": "This is the insignia of the STS-109 Space Shuttle mission. Carrying a crew of seven, the Space Shuttle Orbiter Columbia was launched with goals of maintenance and upgrades to the Hubble Space Telescope (HST). The Marshall Space Flight Center had the responsibility for the design, development, and construction of the HST, which is the most complex and sensitive optical telescope ever made, to study the cosmos from a low-Earth orbit. The HST detects objects 25 times fainter than the dimmest objects seen from Earth and provides astronomers with an observable universe 250 times larger than is visible from ground-based telescopes, perhaps as far away as 14 billion light-years. The HST views galaxies, stars, planets, comets, possibly other solar systems, and even unusual phenomena such as quasars, with 10 times the clarity of ground-based telescopes. During the STS-109 mission, the telescope was captured and secured on a work stand in Columbia's payload bay using Columbia's robotic arm where four members of the crew performed five spacewalks completing system upgrades to the HST. Included in those upgrades were: The replacement of the solar array panels; replacement of the power control unit (PCU); replacement of the Faint Object Camera (FOC) with a new advanced camera for Surveys (ACS); and installation of the experimental cooling system for the Hubble's Near-Infrared Camera and Multi-object Spectrometer (NICMOS), which had been dormant since January 1999 when it original coolant ran out. Lasting 10 days, 22 hours, and 11 minutes, the STS-109 mission was the 27th flight of the Orbiter Columbia and the 108th flight overall in NASA's Space Shuttle Program."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/0201791/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/0201791/0201791~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "0201793",
+                        "date_created": "2002-03-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "Space Shuttle Projects",
+                        "keywords": [ "STS-109", "Hubble Space Telescope", "HST", "Launch" ],
+                        "description": "Carrying a crew of seven, the Space Shuttle Orbiter Columbia soared through some pre-dawn clouds into the sky as it began its 27th flight, STS-109. Launched March 1, 2002, the goal of the mission was the maintenance and upgrade of the Hubble Space Telescope (HST). The Marshall Space Flight Center had the responsibility for the design, development, and construction of the HST, which is the most complex and sensitive optical telescope ever made, to study the cosmos from a low-Earth orbit. The HST detects objects 25 times fainter than the dimmest objects seen from Earth and provides astronomers with an observable universe 250 times larger than is visible from ground-based telescopes, perhaps as far away as 14 billion light-years. The HST views galaxies, stars, planets, comets, possibly other solar systems, and even unusual phenomena such as quasars, with 10 times the clarity of ground-based telescopes. During the STS-109 mission, the telescope was captured and secured on a work stand in Columbia's payload bay using Columbia's robotic arm. Here four members of the crew performed five spacewalks completing system upgrades to the HST. Included in those upgrades were: replacement of the solar array panels; replacement of the power control unit (PCU); replacement of the Faint Object Camera (FOC) with a new advanced camera for Surveys (ACS); and installation of the experimental cooling system for the Hubble's Near-Infrared Camera and Multi-object Spectrometer (NICMOS), which had been dormant since January 1999 when it original coolant ran out. Lasting 10 days, 22 hours, and 11 minutes, the STS-109 mission was the 108th flight overall in NASA's Space Shuttle Program."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/0201793/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/0201793/0201793~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "9127922",
+                        "date_created": "1991-01-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "Space Science",
+                        "keywords": [ "Comption Gamma-Ray Observatory", "GRO", "Burst and Transient Source Experiment", "BATSE", "Fishman" ],
+                        "description": "In this photograph, Dr. Gerald Fishman of the Marshall Space Flight Center (MSFC), a principal investigator of the Compton Gamma-Ray Observatory's (GRO's) instrument, the Burst and Transient Source Experiment (BATSE), works on the BATSE detector module. For nearly 9 years, GRO's BATSE, designed and built by MSFC, kept an unblinking watch on the universe to alert scientist to the invisible, mysterious gamma-ray bursts. By studying gamma-rays from objects like black holes, pulsars, quasars, neutron stars, and other exotic objects, scientists could discover clues to the birth, evolution, and death of star, galaxies, and the universe. The gamma-ray instrument was one of four major science instruments aboard the Compton. It consisted of eight detectors, or modules, located at each corner of the rectangular satellite to simultaneously scan the entire universe for bursts of gamma-rays ranging in duration from fractions of a second to minutes. Because gamma-rays are so powerful, they pass through conventional telescope mirrors. Instead of a mirror, the heart of each BATSE module was a large, flat, transparent crystal that generated a tiny flash of light when struck by a gamma-ray. With an impressive list of discoveries and diverse accomplishments, BATSE could claim to have rewritten astronomy textbooks. Launched aboard the Space Shuttle Orbiter Atlantis during the STS-35 mission in April 1991, the GRO reentered the Earth's atmosphere and ended its successful 9-year mission in June 2000."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/9127922/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/9127922/9127922~thumb.jpg"
+                    }
+                ]
+            },
+            {
+                "data": [
+                    {
+                        "nasa_id": "8113712",
+                        "date_created": "1981-01-01T00:00:00Z",
+                        "media_type": "image",
+                        "center": "MSFC",
+                        "title": "History of Hubble Space Telescope (HST)",
+                        "keywords": [ "Hubble Space Telescope", "HST", "Goddard High-Resolution Spectrograph", "GHRS" ],
+                        "description": "This drawing illustrates the Hubble Space Telescope's (HST's), Goddard High-Resolution Spectrograph (GHRS). The HST's two spectrographs, the GHRS and the Faint Object Spectrograph (FOS), can detect a broader range of wavelengths than is possible from Earth because there is no atmosphere to absorb certain wavelengths. Scientists can determine the chemical composition, temperature, pressure, and turbulence of the stellar atmosphere producing the light, all from spectral data. The GHRS can detect fine details in the light from somewhat brighter objects but only ultraviolet light. Both spectrographs operate in essentially the same way. The incoming light passes through a small entrance aperture, then passes through filters and diffraction gratings, that work like prisms. The filter or grating used determines what range of wavelength will be examined and in what detail. Then the spectrograph detectors record the strength of each wavelength band and sends it back to Earth. The purpose of the HST, the most complex and sensitive optical telescope ever made, is to study the cosmos from a low-Earth orbit. By placing the telescope in space, astronomers are able to collect data that is free of the Earth's atmosphere. The HST views galaxies, stars, planets, comets, possibly other solar systems, and even unusual phenomena such as quasars, with 10 times the clarity of ground-based telescopes. The HST was deployed from the Space Shuttle Discovery (STS-31 mission) into Earth orbit in April 1990. The Marshall Space Flight Center had responsibility for design, development, and construction of the HST. The Perkin-Elmer Corporation, in Danbury, Cornecticut, developed the optical system and guidance sensors."
+                    }
+                ],
+                "href": "https://images-assets.nasa.gov/image/8113712/collection.json",
+                "links": [
+                    {
+                        "rel": "preview",
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/8113712/8113712~thumb.jpg"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "rel": "next",
+                "href": "https://images-api.nasa.gov/search?q=quasar&page=2",
+                "prompt": "Next"
+            }
+        ]
+    }
+}
